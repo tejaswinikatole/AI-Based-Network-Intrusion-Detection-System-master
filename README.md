@@ -1,5 +1,5 @@
 ---
-title: AI NIDS Student Project
+title: AI NIDS 
 emoji: 🛡️
 colorFrom: blue
 colorTo: green
